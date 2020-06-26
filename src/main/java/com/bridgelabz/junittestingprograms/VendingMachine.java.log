@@ -1,0 +1,17 @@
+2020-03-02 18:43:11 [main] INFO  com.bridgelabz.junittestingprograms.VendingMachine  -Enter a : java.lang.String
+2020-03-02 18:43:11 [main] WARN  com.bridgelabz.junittestingprograms.VendingMachine  -may cause errors : 
+2020-03-02 18:47:32 [main] INFO  com.bridgelabz.junittestingprograms.VendingMachine  -Enter a : java.lang.String
+2020-03-02 18:47:32 [main] WARN  com.bridgelabz.junittestingprograms.VendingMachine  -may cause errors : 
+2020-03-02 18:48:44 [main] INFO  com.bridgelabz.junittestingprograms.VendingMachine  -Enter a : java.lang.String
+2020-03-02 18:48:44 [main] WARN  com.bridgelabz.junittestingprograms.VendingMachine  -may cause errors : 
+2020-03-02 18:57:18 [main] INFO  com.bridgelabz.junittestingprograms.VendingMachine  -Enter a : java.lang.String
+2020-03-02 18:57:18 [main] WARN  com.bridgelabz.junittestingprograms.VendingMachine  -may cause errors : 
+2020-03-03 15:02:45 [main] INFO  com.bridgelabz.junittestingprograms.VendingMachine  -Enter a : java.lang.String
+2020-03-03 15:02:45 [main] WARN  com.bridgelabz.junittestingprograms.VendingMachine  -may cause errors : 
+2020-03-03 15:02:48 [main] ERROR com.bridgelabz.junittestingprograms.VendingMachine  -Amount should not be Zero
+2020-03-03 15:03:05 [main] INFO  com.bridgelabz.junittestingprograms.VendingMachine  -Enter a : java.lang.String
+2020-03-03 15:03:05 [main] WARN  com.bridgelabz.junittestingprograms.VendingMachine  -may cause errors : 
+2020-03-03 15:08:32 [main] INFO  com.bridgelabz.junittestingprograms.VendingMachine  -Enter a : java.lang.String
+2020-03-03 15:08:32 [main] WARN  com.bridgelabz.junittestingprograms.VendingMachine  -may cause errors : 
+2020-03-18 14:49:55 [main] INFO  com.bridgelabz.junittestingprograms.VendingMachine  -Enter a : java.lang.String
+2020-03-18 14:49:55 [main] WARN  com.bridgelabz.junittestingprograms.VendingMachine  -may cause errors : 

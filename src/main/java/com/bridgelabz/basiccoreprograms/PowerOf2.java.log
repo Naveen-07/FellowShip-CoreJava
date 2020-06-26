@@ -1,0 +1,24 @@
+2020-03-03 10:05:14 [main] INFO  com.bridgelabz.basiccoreprograms.PowerOf2  -Enter a : java.lang.String
+2020-03-03 10:05:14 [main] WARN  com.bridgelabz.basiccoreprograms.PowerOf2  -may cause errors : 
+2020-03-03 12:33:59 [main] INFO  com.bridgelabz.basiccoreprograms.PowerOf2  -Enter a power of N : java.lang.String
+2020-03-03 12:33:59 [main] WARN  com.bridgelabz.basiccoreprograms.PowerOf2  -may cause InputMismatchException : 
+2020-03-03 12:35:00 [main] INFO  com.bridgelabz.basiccoreprograms.PowerOf2  -Enter a power of N : java.lang.String
+2020-03-03 12:35:00 [main] WARN  com.bridgelabz.basiccoreprograms.PowerOf2  -may cause InputMismatchException : 
+2020-03-03 12:41:34 [main] INFO  com.bridgelabz.basiccoreprograms.PowerOf2  -Enter a power of N : java.lang.String
+2020-03-03 12:41:34 [main] WARN  com.bridgelabz.basiccoreprograms.PowerOf2  -may cause InputMismatchException : 
+2020-03-03 12:50:05 [main] INFO  com.bridgelabz.basiccoreprograms.PowerOf2  -Enter a power of N : java.lang.String
+2020-03-03 12:50:05 [main] WARN  com.bridgelabz.basiccoreprograms.PowerOf2  -may cause InputMismatchException : 
+2020-03-03 12:50:33 [main] INFO  com.bridgelabz.basiccoreprograms.PowerOf2  -Enter a power of N : java.lang.String
+2020-03-03 12:50:33 [main] WARN  com.bridgelabz.basiccoreprograms.PowerOf2  -may cause InputMismatchException : 
+2020-03-03 12:52:06 [main] INFO  com.bridgelabz.basiccoreprograms.PowerOf2  -Enter a power of N : java.lang.String
+2020-03-03 12:52:06 [main] WARN  com.bridgelabz.basiccoreprograms.PowerOf2  -may cause InputMismatchException : 
+2020-03-03 12:53:01 [main] INFO  com.bridgelabz.basiccoreprograms.PowerOf2  -Enter a power of N : java.lang.String
+2020-03-03 12:53:01 [main] WARN  com.bridgelabz.basiccoreprograms.PowerOf2  -may cause InputMismatchException : 
+2020-03-03 13:00:19 [main] INFO  com.bridgelabz.basiccoreprograms.PowerOf2  -Enter a power of N : java.lang.String
+2020-03-03 13:00:19 [main] WARN  com.bridgelabz.basiccoreprograms.PowerOf2  -may cause InputMismatchException : 
+2020-03-03 13:06:20 [main] INFO  com.bridgelabz.basiccoreprograms.PowerOf2  -Enter a power of N : java.lang.String
+2020-03-03 13:06:20 [main] WARN  com.bridgelabz.basiccoreprograms.PowerOf2  -may cause InputMismatchException : 
+2020-03-03 13:08:09 [main] INFO  com.bridgelabz.basiccoreprograms.PowerOf2  -Enter a power of N : java.lang.String
+2020-03-03 13:08:09 [main] WARN  com.bridgelabz.basiccoreprograms.PowerOf2  -may cause InputMismatchException : 
+2020-03-03 13:28:25 [main] INFO  com.bridgelabz.basiccoreprograms.PowerOf2  -Enter a power of N : java.lang.String
+2020-03-03 13:28:25 [main] WARN  com.bridgelabz.basiccoreprograms.PowerOf2  -may cause InputMismatchException : 

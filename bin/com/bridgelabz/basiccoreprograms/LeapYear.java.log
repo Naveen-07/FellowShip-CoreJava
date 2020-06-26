@@ -1,0 +1,4 @@
+2020-02-29 13:00:44 [main] INFO  com.bridgelabz.basiccoreprograms.LeapYear  -logger name : org.apache.log4j.Logger@27ddd392
+2020-02-29 13:00:44 [main] WARN  com.bridgelabz.basiccoreprograms.LeapYear  -logger name : org.apache.log4j.Logger@27ddd392
+2020-02-29 13:02:14 [main] INFO  com.bridgelabz.basiccoreprograms.LeapYear  -logger name : LeapYear
+2020-02-29 13:02:14 [main] WARN  com.bridgelabz.basiccoreprograms.LeapYear  -may cause errors : 
